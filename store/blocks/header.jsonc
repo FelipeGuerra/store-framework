@@ -34,7 +34,7 @@
     "header-row#main": {
         "props": {
             "inverted": true,
-            "stycky": true,
+            "sticky": true,
             "fullWidth": false
         },
         "children": [
