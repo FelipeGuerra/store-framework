@@ -23,16 +23,7 @@
         "children": [
             "vtex.menu@2.x:menu#electronics"
         ]
-    },
-    "flex-layout.row#major": {
-        "children": [
-            "flex-layout.col#menu",
-            "flex-layout.col#img"
-        ],
-        "props": {
-            "orientation": "vertical"
-        }
-    },
+    },    
     "image#menu": {
         "props": {
             "src": "https://appliancetheme.vteximg.com.br/arquivos/menu-washer.jpg",
