@@ -1,0 +1,17 @@
+{
+    "flex-layout.col#menu": {
+        "children": [
+            "vtex.menu@2.x:menu#major",
+            "rich-text#header"
+        ]
+    },
+    "flex-layout.col#img": {
+        "children": [
+            "image#menu"
+        ],
+        "props": {
+            "paddingRight": 4,
+            "horizontalAlign": "right"
+        }
+    }
+}
